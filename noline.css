@@ -1,0 +1,16 @@
+a
+{
+	text-decoration: none;
+}
+
+body
+{
+	background-image:  url("bg_wall.jpg");
+	background-repeat: repeat-x;
+	font-family:'Lucida Console';
+}
+
+TNR
+{
+	font-family:'Times New Roman';
+}
